@@ -7,7 +7,8 @@
 
 body {
     text-align: center;
-    background: linear-gradient(to bottom, #03c7d6, #ec88a3);
+    background: url(/img/DVMT-6OXcAE2rZY.jpg.afab972f972bd7fbd4253bc7aa1cf27f.jpg);
+    background-size: cover;
     min-height:  100vh;
 }
 
@@ -90,4 +91,9 @@ main {
 .button:active {
     box-shadow: inset -4px 4px 3px #222;
     font-size: 0.9rem;
+}
+
+.pokedex{
+    border-radius: 43px 5px 10px 37px;
+    box-shadow: -7px 7px 12px rgb(40, 68, 30);
 }
